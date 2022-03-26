@@ -1,0 +1,3 @@
+Vaibhav /media/weibo/ProgDisk/code/Facial_Recognition/DB/111131.txt
+Rishika /media/weibo/ProgDisk/code/Facial_Recognition/DB/111233.txt
+Samantha /media/weibo/ProgDisk/code/Facial_Recognition/DB/111332.txt
